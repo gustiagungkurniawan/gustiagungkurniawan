@@ -8,27 +8,36 @@
 
 <br clear="both">
 
-<h4 align="left">My Social Media</h4>
+###
 
+<h3 align="center">Commit & Push</h3>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustiagungkurniawan/gustiagungkurniawan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustiagungkurniawan/gustiagungkurniawan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gustiagungkurniawan/gustiagungkurniawan/output/pacman-contribution-graph.svg">
+</picture>
 
 <br clear="both">
+
+####
+
+<h4 align="left">My Social Media</h4>
 
 <div align="left">
   <a href="https://www.instagram.com/gust_ia/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/>
-  </a><a href="https://www.linkedin.com/in/gusti-agung-kurniawan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="52" height="40" alt="instagram logo"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gusti-agung-kurniawan/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="52" height="40" alt="linkedin logo"/>
   </a>
 </div>
 
-
-
 <br clear="both">
 
+####
+
 <h4 align="left">Tech I Often Use</h4>
-
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -40,13 +49,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-
-
 <br clear="both">
 
+####
+
 <h4 align="left">Tools and Library I Use</h4>
-
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
@@ -66,29 +73,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
 
+<br clear="both">
 
+###
+
+<h3 align="center">🔝 Top Contributed Repo</h3>
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=gustiagungkurniawan&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
+
+</div>
 
 <br clear="both">
 
-<h3 align="center">Commit & Push</h3>
-
-
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustiagungkurniawan/gustiagungkurniawan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustiagungkurniawan/gustiagungkurniawan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gustiagungkurniawan/gustiagungkurniawan/output/pacman-contribution-graph.svg">
-</picture>
-
-
-
-<br clear="both">
+####
 
 <h4 align="left">Tech I've been learn before</h4>
-
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -103,13 +104,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
-
-
 <br clear="both">
 
+####
+
 <h4 align="left">Tech I willing to learn next</h4>
-
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
@@ -119,9 +118,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
-
-
 <br clear="both">
+
+###
 
 <h3 align="center">📊 Statistics</h3>
 
@@ -136,6 +135,8 @@
 
 <br clear="both">
 
+###
+
 <h3 align="center">🏆 GitHub Trophies</h3>
 
 <div align="center">
@@ -146,15 +147,7 @@
 
 <br clear="both">
 
-<h3 align="center">🔝 Top Contributed Repo</h3>
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=gustiagungkurniawan&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
-
-</div>
-
-<br clear="both">
+###
 
 <h3 align="center">🎶 Music & Chill</h3>
 
@@ -166,6 +159,8 @@
 
 
 <br clear="both">
+
+###
 
 <h3 align="center">✍️ Random Dev Quote</h3>
 
