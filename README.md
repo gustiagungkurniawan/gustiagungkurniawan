@@ -1,8 +1,10 @@
-## Hello World!🙌 I'm Gusti Agung Kurniawan
+<h1 align="left">Hello World!🙌 I'm Gusti Agung Kurniawan</h1>
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/88/26/f0/8826f00490e6dccacf19d9572b5edfdb.gif"  />
+<img align="right" height="200" src="https://i.pinimg.com/originals/88/26/f0/8826f00490e6dccacf19d9572b5edfdb.gif"  />
 
 <p align="left">💻 Fullstack Programmer | 🕑 Flexible Working Hour | ✍️ Like Something New</p>
+
+<br clear="both">
 
 <p align="left">🔭 I’m currently working on Freelance Project<br>🎓 Fresh Graduate with Experience <1 year<br>💯 IPK/GPA: 3.78<br>😄 Pronouns: He/Him<br>🌏 Asia/Indonesia<br>⚡ Fun fact: coding in the middle of the night is very effective for me</p>
 
@@ -17,6 +19,8 @@
 <div align="left">
   <a href="https://www.instagram.com/gust_ia/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/>
+  </a><a href="https://www.linkedin.com/in/gusti-agung-kurniawan/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
   </a>
 </div>
 
