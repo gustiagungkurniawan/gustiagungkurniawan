@@ -1,6 +1,6 @@
-<img align="right" height="150" src="https://i.pinimg.com/originals/88/26/f0/8826f00490e6dccacf19d9572b5edfdb.gif"  />
+## Hello World!🙌 I'm Gusti Agung Kurniawan
 
-# Hello World!🙌 I'm Gusti Agung Kurniawan
+<img align="right" height="150" src="https://i.pinimg.com/originals/88/26/f0/8826f00490e6dccacf19d9572b5edfdb.gif"  />
 
 <p align="left">💻 Fullstack Programmer | 🕑 Flexible Working Hour | ✍️ Like Something New</p>
 
