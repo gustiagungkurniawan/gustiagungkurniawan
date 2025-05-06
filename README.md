@@ -8,16 +8,6 @@
 
 <br clear="both">
 
-####
-
-<h4 align="left">My Social Media</h4>
-
-<div align="left">
-  <a href="https://www.instagram.com/gust_ia/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="52" height="40" alt="instagram logo"/></a><a href="https://www.linkedin.com/in/gusti-agung-kurniawan/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="52" height="40" alt="linkedin logo"/></a>
-</div>
-
-<br clear="both">
-
 ###
 
 <h3 align="center">Commit & Push</h3>
@@ -125,7 +115,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=gustiagungkurniawan&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gustiagungkurniawan&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustiagungkurniawan&radius=16&theme=vue&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustiagungkurniawan&radius=16&theme=green&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 <br clear="both">
