@@ -1,13 +1,8 @@
 <img align="right" height="150" src="https://i.pinimg.com/originals/88/26/f0/8826f00490e6dccacf19d9572b5edfdb.gif"  />
 
-#
-
 <h2 align="left">Hello World!🙌 I'm Gusti Agung Kurniawan</h2>
 
-#
 <p align="left">💻 Fullstack Programmer | 🕑 Flexible Working Hour | ✍️ Like Something New</p>
-
-###
 
 <br clear="both">
 
