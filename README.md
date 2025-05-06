@@ -8,6 +8,16 @@
 
 <br clear="both">
 
+####
+
+<h4 align="left">My Social Media</h4>
+
+<div align="left">
+  <a href="https://www.instagram.com/gust_ia/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="52" height="40" alt="instagram logo"/></a><a href="https://www.linkedin.com/in/gusti-agung-kurniawan/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="52" height="40" alt="linkedin logo"/></a>
+</div>
+
+<br clear="both">
+
 ###
 
 <h3 align="center">Commit & Push</h3>
@@ -17,16 +27,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustiagungkurniawan/gustiagungkurniawan/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gustiagungkurniawan/gustiagungkurniawan/output/pacman-contribution-graph.svg">
 </picture>
-
-<br clear="both">
-
-####
-
-<h4 align="left">My Social Media</h4>
-
-<div align="left">
-  <a href="https://www.instagram.com/gust_ia/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="52" height="40" alt="instagram logo"/></a><a href="https://www.linkedin.com/in/gusti-agung-kurniawan/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="52" height="40" alt="linkedin logo"/></a>
-</div>
 
 <br clear="both">
 
