@@ -1,3 +1,5 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
 <h1 align="left">Hello World!🙌 I'm Gusti Agung Kurniawan</h1>
 
 <img align="right" height="180" src="https://i.pinimg.com/originals/88/26/f0/8826f00490e6dccacf19d9572b5edfdb.gif"  />
