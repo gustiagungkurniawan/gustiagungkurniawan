@@ -1,6 +1,6 @@
 <h1 align="left">Hello World!🙌 I'm Gusti Agung Kurniawan</h1>
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/88/26/f0/8826f00490e6dccacf19d9572b5edfdb.gif"  />
+<img align="right" height="180" src="https://i.pinimg.com/originals/88/26/f0/8826f00490e6dccacf19d9572b5edfdb.gif"  />
 
 <p align="left">💻 Fullstack Programmer | 🕑 Flexible Working Hour | ✍️ Like Something New</p>
 
@@ -146,9 +146,9 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustiagungkurniawan&radius=16&theme=green&area=true&order=5" height="300" alt="activity-graph graph"  />
 
-![](https://github-readme-stats.vercel.app/api?username=gustiagungkurniawan&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gustiagungkurniawan&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gustiagungkurniawan&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=gustiagungkurniawan&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true" height="150" alt="Stat"  /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustiagungkurniawan&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="150" alt="Lang"  />
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=gustiagungkurniawan&theme=vue-dark&hide_border=false" height="300" alt="Streak"  />
 
 </div>
 
