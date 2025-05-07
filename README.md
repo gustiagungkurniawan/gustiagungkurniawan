@@ -10,7 +10,7 @@
 
 ####
 
-<h3 align="center">My Social Media</h3>
+<h3 align="center">📲 My Social Media</h3>
 
 <div align="center">
   <a href="https://www.instagram.com/gust_ia/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  /></a>
