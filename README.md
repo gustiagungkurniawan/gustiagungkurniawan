@@ -13,7 +13,8 @@
 <h4 align="left">My Social Media</h4>
 
 <div align="left">
-  <a href="https://www.instagram.com/gust_ia/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  /></a><a href="https://www.linkedin.com/in/gusti-agung-kurniawan/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  /></a>
+  <a href="https://www.instagram.com/gust_ia/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  /></a>
+  <a href="https://www.linkedin.com/in/gusti-agung-kurniawan/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  /></a>
 </div>
 
 <br clear="both">
