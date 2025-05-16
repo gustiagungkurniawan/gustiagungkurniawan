@@ -6,7 +6,7 @@
 
 <p align="left">💻 Fullstack Programmer | 🕑 Flexible Working Hour | ✍️ Like Something New</p>
 
-<p align="left">🔭 I’m currently working on Freelance Project<br>🎓 Fresh Graduate with Experience <1 year<br>💯 IPK/GPA: 3.78<br>😄 Pronouns: He/Him<br>🌏 Asia/Indonesia<br>⚡ Fun fact: coding in the middle of the night is very effective for me</p>
+<p align="left">🔭 I’m currently working on Freelance Project<br>🎓 Fresh Graduate with Experience <1 year<br>💯 IPK/GPA: 3.74<br>😄 Pronouns: He/Him<br>🌏 Asia/Indonesia<br>⚡ Fun fact: coding in the middle of the night is very effective for me</p>
 
 <br clear="both">
 
