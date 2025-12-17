@@ -193,5 +193,5 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gustiagungkurniawan.gustiagungkurniawan&left_color=teal&right_color=seagreen"  />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gustiagungkurniawan&count_bg=%232E8B57&title_bg=%23008080&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/>
 </div>
