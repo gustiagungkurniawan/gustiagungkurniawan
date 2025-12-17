@@ -193,5 +193,5 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://count.getloli.com/get/@gustiagungkurniawan?theme=gelbooru"/>
+  <img src="https://count.getloli.com/get/@gustiagungkurniawan?theme=love-and-deepspace"/>
 </div>
