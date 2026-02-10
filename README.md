@@ -148,8 +148,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustiagungkurniawan&radius=16&theme=green&area=true&order=5" height="300" alt="activity-graph graph"  />
 
-<img src="https://github-readme-stats.vercel.app/api?username=gustiagungkurniawan&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true" height="150" alt="Stat"  /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustiagungkurniawan&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="150" alt="Lang"  />
-
 <img src="https://nirzak-streak-stats.vercel.app/?user=gustiagungkurniawan&theme=vue-dark&hide_border=false" height="300" alt="Streak"  />
 
 </div>
