@@ -130,62 +130,12 @@
 
 ###
 
-<h3 align="center">🔝 Top Contributed Repo</h3>
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=gustiagungkurniawan&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
-
-</div>
-
-<br clear="both">
-
-###
-
-<h3 align="center">📊 Statistics</h3>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gustiagungkurniawan&radius=16&theme=green&area=true&order=5" height="300" alt="activity-graph graph"  />
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=gustiagungkurniawan&theme=vue-dark&hide_border=false" height="300" alt="Streak"  />
-
-</div>
-
-<br clear="both">
-
-###
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=gustiagungkurniawan&theme=vue-dark&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
-<br clear="both">
-
-###
-
 <h3 align="center">✍️ Random Dev Quote</h3>
 
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue-dark)
 
-</div>
-
-<br clear="both">
-
-###
-
-<h3 align="center">🎶 Music & Chill</h3>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31pybc2ym6msoffvbkhxpautrrli">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31pybc2ym6msoffvbkhxpautrrli&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
 </div>
 
 <br clear="both">
