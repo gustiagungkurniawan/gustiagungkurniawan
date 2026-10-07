@@ -4,9 +4,9 @@
 
 <img align="right" height="180" src="https://i.pinimg.com/originals/88/26/f0/8826f00490e6dccacf19d9572b5edfdb.gif"  />
 
-<p align="left">💻 Fullstack Programmer | 🕑 Flexible Working Hour | ✍️ Like Something New</p>
+<p align="left">💻 Fullstack Programmer | 🕑 Flexible Learning Hour | ✍️ Like Something New</p>
 
-<p align="left">🔭 I’m currently working on Freelance Project<br>🎓 Fresh Graduate with Experience >1 year<br>💯 IPK/GPA: 3.74<br>😄 Pronouns: He/Him<br>🌏 Asia/Indonesia<br>⚡ Fun fact: coding in the middle of the night is very effective for me</p>
+<p align="left">🔭 I’m currently working as Admin<br>🎓 Fresh Graduate (2024) with Programming Experience >1 year<br>💯 IPK/GPA: 3.74<br>😄 Pronouns: He/Him<br>🌏 Asia/Indonesia<br>⚡ Fun fact: coding in the middle of the night is very effective for me</p>
 
 <br clear="both">
 
@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://www.instagram.com/gust_ia/" target="_BLANK"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  /></a>
-  <a href="https://www.linkedin.com/in/gusti-agung-kurniawan/" target="_BLANK"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  /></a>
+  <a href="https://www.linkedin.com/in/gustiagungkurniawan/" target="_BLANK"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  /></a>
 </div>
 
 <br clear="both">
